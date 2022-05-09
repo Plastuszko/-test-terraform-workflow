@@ -1,2 +1,3 @@
-a = "hello world"
-Print(a)
+output "hello_world" {
+    value = "Hello, World!"
+}
