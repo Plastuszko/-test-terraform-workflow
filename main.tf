@@ -1,1 +1,1 @@
-codes
+Print("Hello world")
